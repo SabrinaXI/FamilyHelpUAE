@@ -1,4 +1,4 @@
-FamilyHelpUAE is a distributed, family-centric platform designed to enable families to offer and request practical support services (e.g., childcare assistance, tutoring, transportation help, elder care support, household assistance) within trusted local communities.
+FamilyHelpUAE is a distributed, family-centric platform designed to enable families to offer and request practical support services (e.g., childcare assistance, tutoring, transportation help, elder care support, household assistance) within trusted local communities.  
 
 Endpoints & Functionalities: 
 
@@ -29,3 +29,7 @@ Data Model:
 • Feedback and reputation scores 
 
 • Interaction history between families 
+
+
+Note:
+The project runs on port 8080. The frontend HTML, CSS, JS can be found in the static folder
