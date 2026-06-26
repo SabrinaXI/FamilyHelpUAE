@@ -3,7 +3,6 @@ FamilyHelpUAE is a distributed, family-centric platform designed to enable famil
 Endpoints & Functionalities: 
 
 • Family registration and authentication 
-
 • Creating and updating family profiles 
 
 • Posting help offers (e.g., tutoring, transport, childcare) 
