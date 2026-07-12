@@ -6,7 +6,7 @@ It is a distributed, family-centric platform designed to enable families to offe
 
 (full API documentation can be viewed in Swagger in the URL: http://localhost:8080/swagger-ui/index.html
 
--Family registration and authentication 
+- Family registration and authentication 
 - Creating and updating family profiles 
 - Posting help offers (e.g., tutoring, transport, childcare) 
 - Submitting help requests 
