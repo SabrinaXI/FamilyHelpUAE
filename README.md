@@ -1,6 +1,10 @@
-FamilyHelpUAE is a distributed, family-centric platform designed to enable families to offer and request practical support services (e.g., childcare assistance, tutoring, transportation help, elder care support, household assistance) within trusted local communities.  
+#FamilyHelpUAE 
 
-Endpoints & Functionalities: (full API documentation can be viewed in Swagger in the URL: http://localhost:8080/swagger-ui/index.html
+It is a distributed, family-centric platform designed to enable families to offer and request practical support services (e.g., childcare assistance, tutoring, transportation help, elder care support, household assistance) within trusted local communities.  
+
+##Endpoints & Functionalities: 
+
+(full API documentation can be viewed in Swagger in the URL: http://localhost:8080/swagger-ui/index.html
 
 • Family registration and authentication 
 
@@ -19,7 +23,7 @@ Endpoints & Functionalities: (full API documentation can be viewed in Swagger in
 • Viewing family reputation/trust scores 
 
 
-Data Model:
+##Data Model:
 
 • Families and family members 
 
